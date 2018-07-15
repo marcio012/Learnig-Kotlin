@@ -16,12 +16,22 @@
     * Loops  
  
  * Array
+    * Array
+    * List
+    
+ * Collections
+    * listOf
+    * arrayOf
+    * arrayListOf
+    * set
+    * map
+        
  
  * Funções
        
  * Class
     * Heranças
     * Construtores      
- 
+    * Interfaces 
  
     

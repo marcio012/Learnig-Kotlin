@@ -30,7 +30,7 @@ fun main(args: Array<String>) {
     } else {
         println("Processando...")
     }
-    
+
     println("------------------")
 
     when (pedido.status) {
